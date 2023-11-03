@@ -6,7 +6,7 @@ import java.util.Arrays;
 Return the array which has the largest sum. In event of a tie, return a.
 biggerTwo([1, 2], [3, 4]) → [3, 4]
 biggerTwo([3, 4], [1, 2]) → [3, 4]
-biggerTwo([1, 1], [1, 2]) → [1, 2]*/
+biggerTwo([1, 1], [1, 2]) → [1, 2] */
 
 public class BiggerTwo {
     public static void main(String[] args) {
